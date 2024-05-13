@@ -1,11 +1,9 @@
-import glob
 import os
 from collections import Counter
 
 import nltk
-from gensim import corpora, models, similarities
+from gensim import models
 from gensim.corpora import Dictionary
-from gensim.models import LsiModel
 from nltk.corpus import stopwords
 from nltk.probability import FreqDist
 from nltk.tokenize import word_tokenize
@@ -93,6 +91,8 @@ def generate_report(text_files):
 
   with open(combined_report_filename, 'w') as combined_report_file:
 
+    total_articles = len(text_files)
+
     # Top N LSI keywords for all articles
     dictionary = Dictionary([all_tokens])
     corpus = [dictionary.doc2bow(text) for text in [all_tokens]]
@@ -113,21 +113,24 @@ def generate_report(text_files):
     combined_report_file.write(f"\nTop {TOP_N} most frequent keywords:\n")
 
     for i in freq_dist_all.most_common(TOP_N):
-      combined_report_file.write(f"{i[0]}   --> {i[1]}\n")
+      combined_report_file.write(
+        f"{i[0]}   --> {round(i[1]/total_articles, 1)}\n")
 
     # Top N frequent bigrams for all articles
     bigram_counts_all = Counter(all_bigrams)
     combined_report_file.write(
         f"\nTop {TOP_N} most frequent two word phrases:\n")
     for i in bigram_counts_all.most_common(TOP_N):
-      combined_report_file.write(f"{' '.join(i[0])}   --> {i[1]}\n")
+      combined_report_file.write(
+        f"{' '.join(i[0])}   --> {round(i[1]/total_articles, 1)}\n")
 
     # Top N frequent trigrams for all articles
     trigram_counts_all = Counter(all_trigrams)
     combined_report_file.write(
         f"\nTop {TOP_N} most frequent three word phrases:\n")
     for i in trigram_counts_all.most_common(TOP_N):
-      combined_report_file.write(f"{' '.join(i[0])}   --> {i[1]}\n")
+      combined_report_file.write(
+        f"{' '.join(i[0])}   --> {round(i[1]/total_articles, 1)}\n")
 
 
 if __name__ == "__main__":
