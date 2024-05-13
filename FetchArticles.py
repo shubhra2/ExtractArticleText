@@ -26,7 +26,7 @@ def createfile(url):
   count = 0
   for count, i in enumerate(tqdm(url, desc="Downloading articles: ")):
 
-    count = count + 1
+    count += 1
     article = Article(i)
     article.download()
     article.parse()
