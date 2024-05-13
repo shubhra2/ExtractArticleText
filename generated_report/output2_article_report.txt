@@ -1,0 +1,128 @@
+
+Top 30 LSI keywords:
+"python" 
+"developers" 
+"offshore" 
+"hire" 
+"development" 
+"project" 
+"software" 
+"companies" 
+"company" 
+"solutions" 
+"team" 
+"hiring" 
+"freelance" 
+"best" 
+"work" 
+"benefits" 
+"app" 
+"india" 
+"remote" 
+"like" 
+"make" 
+"due" 
+"one" 
+"result" 
+"scalability" 
+"agency" 
+"build" 
+"businesses" 
+"advantages" 
+"developer"
+
+Top 30 most frequent keywords:
+python   --> 52
+developers   --> 28
+offshore   --> 24
+hire   --> 14
+development   --> 13
+project   --> 10
+software   --> 6
+companies   --> 6
+company   --> 6
+solutions   --> 5
+best   --> 5
+work   --> 5
+hiring   --> 5
+team   --> 5
+freelance   --> 5
+like   --> 4
+make   --> 4
+remote   --> 4
+due   --> 4
+result   --> 4
+scalability   --> 4
+app   --> 4
+benefits   --> 4
+one   --> 4
+agency   --> 4
+india   --> 4
+enterprises   --> 3
+want   --> 3
+even   --> 3
+programming   --> 3
+
+Top 30 most frequent two word phrases:
+python developers   --> 25
+hire python   --> 8
+developers offshore   --> 7
+offshore python   --> 7
+freelance python   --> 5
+python development   --> 4
+offshore company   --> 4
+development companies   --> 4
+remote python   --> 3
+python app   --> 3
+app development   --> 3
+software development   --> 3
+python developer   --> 3
+best option   --> 2
+option hire   --> 2
+programming language   --> 2
+community support   --> 2
+developers make   --> 2
+benefits hiring   --> 2
+python coders   --> 2
+currency difference   --> 2
+offshore software   --> 2
+hiring python   --> 2
+facility scale   --> 2
+scale team   --> 2
+team offshore   --> 2
+advantages hiring   --> 2
+companies offshore   --> 2
+quality assurance   --> 2
+era digital   --> 1
+
+Top 30 most frequent three word phrases:
+hire python developers   --> 7
+python developers offshore   --> 7
+offshore python developers   --> 4
+remote python developers   --> 3
+python app development   --> 3
+developers offshore company   --> 3
+freelance python developer   --> 3
+best option hire   --> 2
+option hire python   --> 2
+hiring python developers   --> 2
+scale team offshore   --> 2
+team offshore python   --> 2
+app development companies   --> 2
+freelance python developers   --> 2
+offshore python development   --> 2
+development companies offshore   --> 2
+era digital world   --> 1
+digital world python   --> 1
+world python maintained   --> 1
+python maintained position   --> 1
+maintained position frontrunner   --> 1
+position frontrunner providing   --> 1
+frontrunner providing technically   --> 1
+providing technically advanced   --> 1
+technically advanced software   --> 1
+advanced software solutions   --> 1
+software solutions thousands   --> 1
+solutions thousands enterprises   --> 1
+thousands enterprises world   --> 1
+enterprises world advent   --> 1

@@ -1,0 +1,128 @@
+
+Top 30 LSI keywords:
+"app" 
+"development" 
+"services" 
+"mobile" 
+"native" 
+"apps" 
+"android" 
+"devices" 
+"hybrid" 
+"web" 
+"platforms" 
+"want" 
+"best" 
+"build" 
+"experience" 
+"functionalities" 
+"applications" 
+"ios" 
+"pwas" 
+"apple" 
+"today" 
+"technologies" 
+"users" 
+"get" 
+"time" 
+"major" 
+"built" 
+"businesses" 
+"benefits" 
+"platform"
+
+Top 30 most frequent keywords:
+app   --> 53
+development   --> 45
+services   --> 34
+mobile   --> 30
+native   --> 30
+apps   --> 16
+android   --> 15
+devices   --> 11
+hybrid   --> 10
+web   --> 9
+platforms   --> 8
+want   --> 8
+applications   --> 7
+build   --> 7
+experience   --> 7
+functionalities   --> 7
+best   --> 7
+ios   --> 6
+apple   --> 6
+pwas   --> 6
+today   --> 5
+technologies   --> 5
+users   --> 5
+major   --> 5
+built   --> 5
+get   --> 5
+time   --> 5
+businesses   --> 4
+customers   --> 4
+specific   --> 4
+
+Top 30 most frequent two word phrases:
+app development   --> 43
+development services   --> 29
+mobile app   --> 22
+native mobile   --> 8
+native app   --> 6
+hybrid app   --> 5
+user experience   --> 4
+android app   --> 4
+native apps   --> 4
+services include   --> 3
+two major   --> 3
+native android   --> 3
+operating systems   --> 3
+apple devices   --> 3
+services hybrid   --> 3
+hybrid apps   --> 3
+web apps   --> 3
+progressive web   --> 3
+mobile devices   --> 2
+mobile apps   --> 2
+reach potential   --> 2
+outsource mobile   --> 2
+sizes kinds   --> 2
+build apps   --> 2
+experience users   --> 2
+users types   --> 2
+ios android   --> 2
+market share   --> 2
+divided two   --> 2
+major categories   --> 2
+
+Top 30 most frequent three word phrases:
+app development services   --> 27
+mobile app development   --> 17
+native mobile app   --> 7
+native app development   --> 5
+hybrid app development   --> 5
+development services include   --> 3
+android app development   --> 3
+native android app   --> 3
+development services hybrid   --> 3
+outsource mobile app   --> 2
+experience users types   --> 2
+divided two major   --> 2
+development services native   --> 2
+applications built native   --> 2
+services hybrid app   --> 2
+development services many   --> 2
+offshore mobile app   --> 2
+progressive web app   --> 2
+web app development   --> 2
+pwa development services   --> 2
+business thrive today   --> 1
+thrive today without   --> 1
+today without digital   --> 1
+without digital presence   --> 1
+digital presence billion   --> 1
+presence billion people   --> 1
+billion people using   --> 1
+people using mobile   --> 1
+using mobile devices   --> 1
+mobile devices mobile   --> 1

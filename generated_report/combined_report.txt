@@ -1,0 +1,128 @@
+
+Top 30 LSI keywords:
+"development" 
+"app" 
+"python" 
+"services" 
+"developers" 
+"offshore" 
+"mobile" 
+"native" 
+"project" 
+"apps" 
+"hire" 
+"android" 
+"outsource" 
+"net" 
+"best" 
+"build" 
+"dot" 
+"web" 
+"us" 
+"weblineindia" 
+"business" 
+"want" 
+"like" 
+"devices" 
+"solutions" 
+"software" 
+"functionalities" 
+"india" 
+"hybrid" 
+"company"
+
+Top 30 most frequent keywords:
+development   --> 81
+app   --> 59
+python   --> 52
+services   --> 41
+developers   --> 36
+mobile   --> 33
+offshore   --> 33
+native   --> 30
+project   --> 24
+apps   --> 22
+hire   --> 18
+outsource   --> 15
+android   --> 15
+best   --> 15
+net   --> 15
+build   --> 14
+web   --> 14
+us   --> 14
+dot   --> 14
+business   --> 13
+want   --> 13
+weblineindia   --> 13
+devices   --> 11
+software   --> 11
+solutions   --> 11
+like   --> 11
+hybrid   --> 10
+functionalities   --> 10
+get   --> 10
+companies   --> 10
+
+Top 30 most frequent two word phrases:
+app development   --> 47
+development services   --> 33
+python developers   --> 25
+mobile app   --> 22
+dot net   --> 14
+native mobile   --> 8
+hire python   --> 8
+net development   --> 8
+developers offshore   --> 7
+offshore python   --> 7
+native app   --> 6
+web apps   --> 6
+outsource development   --> 6
+hybrid app   --> 5
+development companies   --> 5
+software development   --> 5
+freelance python   --> 5
+user experience   --> 4
+android app   --> 4
+native apps   --> 4
+python development   --> 4
+offshore company   --> 4
+development weblineindia   --> 4
+outsource dot   --> 4
+mobile apps   --> 3
+sizes kinds   --> 3
+services include   --> 3
+software solutions   --> 3
+two major   --> 3
+native android   --> 3
+
+Top 30 most frequent three word phrases:
+app development services   --> 27
+mobile app development   --> 17
+dot net development   --> 8
+native mobile app   --> 7
+hire python developers   --> 7
+python developers offshore   --> 7
+native app development   --> 5
+hybrid app development   --> 5
+offshore python developers   --> 4
+net development weblineindia   --> 4
+outsource dot net   --> 4
+development services include   --> 3
+android app development   --> 3
+native android app   --> 3
+development services hybrid   --> 3
+app development companies   --> 3
+remote python developers   --> 3
+python app development   --> 3
+hubs like india   --> 3
+developers offshore company   --> 3
+freelance python developer   --> 3
+outsource development projects   --> 3
+outsource mobile app   --> 2
+come long way   --> 2
+experience users types   --> 2
+divided two major   --> 2
+development services native   --> 2
+applications built native   --> 2
+services hybrid app   --> 2
+development services many   --> 2

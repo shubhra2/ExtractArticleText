@@ -1,0 +1,128 @@
+
+Top 30 LSI keywords:
+"development" 
+"net" 
+"dot" 
+"weblineindia" 
+"us" 
+"project" 
+"outsource" 
+"business" 
+"services" 
+"offshore" 
+"developers" 
+"save" 
+"india" 
+"technology" 
+"projects" 
+"apps" 
+"also" 
+"like" 
+"software" 
+"latest" 
+"team" 
+"outsourcing" 
+"hiring" 
+"build" 
+"cost" 
+"clients" 
+"come" 
+"best" 
+"choose" 
+"tech"
+
+Top 30 most frequent keywords:
+development   --> 23
+net   --> 15
+dot   --> 14
+weblineindia   --> 13
+us   --> 13
+outsource   --> 11
+project   --> 11
+business   --> 10
+services   --> 7
+offshore   --> 7
+developers   --> 7
+india   --> 6
+save   --> 6
+technology   --> 5
+projects   --> 5
+apps   --> 5
+outsourcing   --> 4
+software   --> 4
+like   --> 4
+clients   --> 4
+also   --> 4
+cost   --> 4
+latest   --> 4
+hiring   --> 4
+team   --> 4
+build   --> 4
+enterprises   --> 3
+around   --> 3
+prefer   --> 3
+reasons   --> 3
+
+Top 30 most frequent two word phrases:
+dot net   --> 14
+net development   --> 8
+outsource development   --> 6
+development weblineindia   --> 4
+development services   --> 4
+outsource dot   --> 4
+development projects   --> 3
+software development   --> 2
+offshore hubs   --> 2
+hubs like   --> 2
+like india   --> 2
+cogent reasons   --> 2
+microsoft technology   --> 2
+weblineindia maintained   --> 2
+mobile web   --> 2
+services weblineindia   --> 2
+reasons outsource   --> 2
+projects us   --> 2
+developers us   --> 2
+tech partner   --> 2
+features functionalities   --> 2
+us countries   --> 2
+days weblineindia   --> 2
+business working   --> 2
+working days   --> 2
+hiring model   --> 2
+save time   --> 2
+frequently asked   --> 2
+asked questions   --> 2
+web apps   --> 2
+
+Top 30 most frequent three word phrases:
+dot net development   --> 8
+net development weblineindia   --> 4
+outsource dot net   --> 4
+outsource development projects   --> 3
+offshore hubs like   --> 2
+hubs like india   --> 2
+reasons outsource development   --> 2
+development projects us   --> 2
+net development services   --> 2
+business working days   --> 2
+frequently asked questions   --> 2
+global spending services   --> 1
+spending services surged   --> 1
+services surged billion   --> 1
+surged billion trend   --> 1
+billion trend continue   --> 1
+trend continue grow   --> 1
+continue grow enterprises   --> 1
+grow enterprises sizes   --> 1
+enterprises sizes kinds   --> 1
+sizes kinds around   --> 1
+kinds around world   --> 1
+around world prefer   --> 1
+world prefer outsourcing   --> 1
+prefer outsourcing software   --> 1
+outsourcing software development   --> 1
+software development needs   --> 1
+development needs offshore   --> 1
+needs offshore hubs   --> 1
+like india due   --> 1
