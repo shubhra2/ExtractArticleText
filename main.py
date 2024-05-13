@@ -34,7 +34,9 @@ def generate_report(text_files):
   for file in tqdm(text_files, desc="Processing Files: "):
     with open(file, 'r') as f:
       text = f.read()
-      tokens = [token.lower() for token in word_tokenize(text) if token.isalpha()]
+      tokens = [
+          token.lower() for token in word_tokenize(text) if token.isalpha()
+      ]
       filtered_tokens = [token for token in tokens if token not in stop_words]
       bigrams = list(ngrams(filtered_tokens, 2))
       trigrams = list(ngrams(filtered_tokens, 3))
@@ -55,9 +57,13 @@ def generate_report(text_files):
         lsi = models.LsiModel(corpus, id2word=dictionary, num_topics=1)
         top_topics = lsi.print_topics(num_words=TOP_N)
         report_file.write(f"\nTop {TOP_N} LSI keywords:\n")
-        list_of_elements = [element for tuple in top_topics for element in tuple]
+        list_of_elements = [
+            element for tuple in top_topics for element in tuple
+        ]
 
-        non_int_elements = [x for x in list_of_elements if not isinstance(x, int)]
+        non_int_elements = [
+            x for x in list_of_elements if not isinstance(x, int)
+        ]
         x = ([i.split('+') for i in non_int_elements])
         answer = ([i.split('*') for i in x[0]])
 
@@ -73,15 +79,13 @@ def generate_report(text_files):
 
         # Top N frequent bigrams
         bigram_counts = Counter(bigrams)
-        report_file.write(
-          f"\nTop {TOP_N} most frequent two word phrases:\n")
+        report_file.write(f"\nTop {TOP_N} most frequent two word phrases:\n")
         for i in bigram_counts.most_common(TOP_N):
           report_file.write(f"{' '.join(i[0])}   --> {i[1]}\n")
 
         # Top N frequent trigrams
         trigram_counts = Counter(trigrams)
-        report_file.write(
-          f"\nTop {TOP_N} most frequent three word phrases:\n")
+        report_file.write(f"\nTop {TOP_N} most frequent three word phrases:\n")
         for i in trigram_counts.most_common(TOP_N):
           report_file.write(f"{' '.join(i[0])}   --> {i[1]}\n")
 
@@ -134,4 +138,3 @@ if __name__ == "__main__":
   ]
   text_files = createfile(urls)
   generate_report(text_files)
-
